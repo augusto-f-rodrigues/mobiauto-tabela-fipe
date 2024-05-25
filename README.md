@@ -15,6 +15,8 @@ Este projeto é uma aplicação desenvolvida em Next Js com o conceito mobile-fi
 ## Recursos Principais
 
 - Visualização dos valores de veículos filtrados por tipo de veículo, marca, modelo e ano.
+- Foi implementado além do design fornecido a escolha de um tipo de veículo, para que possa ser visualizado o valor das motos e caminhões também
+- Na tela de preço também foi adicionado a mais um botão de voltar, para que seja outra opção de voltar além da funcionalidade do navegador
 
 ## Tecnologias Utilizadas
 
@@ -46,4 +48,20 @@ npm install
 
 ## Link deploy da vercel
 
+- [https://mobiauto-tabela-fipe.vercel.app/](https://mobiauto-tabela-fipe.vercel.app/)
+
 ## Screenshots (visualização da versão mobile e desktop)
+
+### Versão mobile
+
+![mobile-1](./public/images/mobile-1.png)
+![mobile-2](./public/images/mobile-2.png)
+![mobile-3](./public/images/mobile-3.png)
+![mobile-4](./public/images/mobile-4.png)
+
+### Versão desktop
+
+![desktop-1](./public/images/desktop-1.png)
+![desktop-2](./public/images/desktop-2.png)
+![desktop-3](./public/images/desktop-3.png)
+![desktop-4](./public/images/desktop-4.png)
