@@ -10,7 +10,7 @@ Este projeto é uma aplicação desenvolvida em Next Js com o conceito mobile-fi
 - [Instalação](#instalação)
 - [Scripts Disponíveis](#scripts-disponíveis)
 - [Link deploy da vercel](#link-deploy-da-vercel)
-- [Screenshots (visualização da versão mobile e desktop)](#screenshorts-visualização-da-versão-mobile-e-desktop)
+- [Screenshots da versão mobile e desktop](#screenshots-da-versão-mobile-e-desktop)
 
 ## Recursos Principais
 
@@ -50,7 +50,7 @@ npm install
 
 - [https://mobiauto-tabela-fipe.vercel.app/](https://mobiauto-tabela-fipe.vercel.app/)
 
-## Screenshots (visualização da versão mobile e desktop)
+## Screenshots da versão mobile e desktop
 
 ### Versão mobile
 
